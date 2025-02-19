@@ -1,7 +1,7 @@
 Welcome to my Cypress-based automation project for testing the Amazon Careers website! This project aims to validate job search functionality while applying best practices in automation.
 
 📌 Project Overview
-This project automates a couple of smoke test scenarios on Amazon's Global Career Site to ensure smooth user experience in job searches. It follows best automation practices, including:
+This project automates a couple of smoke test scenarios on Amazon's Global Career Site to ensure a smooth user experience in job searches. It follows best automation practices, including:
 
 ✅ Cypress setup for E2E testing
 ✅ Best practices: Page Object Model (POM), fixtures, and reusable commands
@@ -27,7 +27,7 @@ This project automates a couple of smoke test scenarios on Amazon's Global Caree
 
 🛠️ Setup Instructions
 1️⃣ Clone this repo
-git clone https://github.com/YOUR_USERNAME/amazon-job-search-tests.git
+git clone https://github.com/alexpanovQA/amazon-job-search-tests.git
 cd amazon-job-search-tests
 
 2️⃣ Install dependencies
