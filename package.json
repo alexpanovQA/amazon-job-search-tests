@@ -1,5 +1,9 @@
 {
   "devDependencies": {
-    "cypress": "^14.0.3"
+    "cypress": "^14.0.3",
+    "cypress-file-upload": "^5.0.8"
+  },
+  "dependencies": {
+    "mailosaur": "^8.8.1"
   }
 }
