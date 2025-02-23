@@ -26,16 +26,6 @@ Alternatively, you can use GitHub Secrets for CI/CD (if not using cypress.env.js
 Run all tests in headless mode: npx cypress run
 Run tests in interactive mode: npx cypress open
 
-🏗️ Continuous Integration (CI) with GitHub Actions
-This project is CI/CD ready with GitHub Actions. The workflow automatically:
-- Runs Cypress tests on Ubuntu-Latest
-- Fetches OTP via Mailosaur API
-- Uploads test artifacts (screenshots/videos on failures)
-
-Triggering CI Pipeline
-- Runs on every push to main branch
-- Executes on every Pull Request
-
 📌 Next Steps
 ✅ Expand test coverage
 ✅ Integrate reporting tools for better test analysis
